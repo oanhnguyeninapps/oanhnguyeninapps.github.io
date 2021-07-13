@@ -9,9 +9,9 @@ window.onload = function() {
       'Hi you. Hope you have a great day ahead. 👋🏻',
       'I\'m Oanh, a HR Specialist from InApps 🙋‍♀️',
       'We\'re currently looking for talents new exciting roles in HCMC as below:',
-      'Who Are We?: <a target="_blank" href="https://inapps.intalents.co/job/project-manager-ho-chi-minh?fbclid=IwAR2TKR5rG4amu90d9oKS8poKJnXrDO4eYaxRQ6TSDpzXlTI8RGcj_UCUgZc">https://www.inapps.net</a>'
       '<a target="_blank" href="https://inapps.intalents.co/job/project-manager-ho-chi-minh?fbclid=IwAR2TKR5rG4amu90d9oKS8poKJnXrDO4eYaxRQ6TSDpzXlTI8RGcj_UCUgZc">Project Manager</a>',
       '<a target="_blank" href="https://inapps.intalents.co/job/backend-developer-nodejs-ho-chi-minh?fbclid=IwAR15pl0Kalp_1J0pCxRpqFiBEAH4yQE-1WfobDvp1RcykaI39KDJZKZGpYw">BackEnd Developer (NodeJS)</a>',
+      'About us: <a target="_blank" href="https://inapps.intalents.co/job/project-manager-ho-chi-minh?fbclid=IwAR2TKR5rG4amu90d9oKS8poKJnXrDO4eYaxRQ6TSDpzXlTI8RGcj_UCUgZc">InApps Technology</a>',
       'To taking care of your career development and advancement successfully!',
       'Let\'s contact me, I will direct support 👉🏻 <a href="skype:oanhnch.hr?chat">Chat With Me On Skype</a>',
       'Thank you so much.'
