@@ -6,14 +6,12 @@ window.onload = function() {
     var messageIndex = 0;
   
     var messages = [
-      'Hi there 👋🏻',
-      'I\'m Oanhhhh, a Recruitment Consultant from InApps 🙋‍♀️',
+      'Hi 👋🏻',
+      'I\'m Oanh, a HR Specialist from InApps 🙋‍♀️',
       'I\'m looking for the right talents for our product partners forming Tech hubs in Vietnam',
-      'TripAdvisor: <a target="_blank" href="https://bit.ly/3kbUFXg">Medior/Senior/Lead Fullstack Java</a>',
-      'Instaclustr: <a target="_blank" href="https://bit.ly/2Tb7SEE">Senior/Lead Java</a>',
-      'MessageMedia: <a target="_blank" href="https://bit.ly/3hziciS">Senior ReactJS</a>',
-      'CreditorWatch: <a target="_blank" href="https://bit.ly/3ediHgu">Senior/Lead PHP</a>',
-      'Please contact me if you require direct support 👉🏻 <a href="skype:live:.cid.3574192feff64ebf?chat">Chat With Me On Skype</a>',
+      '<a target="_blank" href="https://inapps.intalents.co/job/project-manager-ho-chi-minh?fbclid=IwAR2TKR5rG4amu90d9oKS8poKJnXrDO4eYaxRQ6TSDpzXlTI8RGcj_UCUgZc">Project Manager</a>',
+      '<a target="_blank" href="https://inapps.intalents.co/job/backend-developer-nodejs-ho-chi-minh?fbclid=IwAR15pl0Kalp_1J0pCxRpqFiBEAH4yQE-1WfobDvp1RcykaI39KDJZKZGpYw">BackEnd Developer (NodeJS)</a>',
+      'Please contact me if you require direct support 👉🏻 <a href="skype:oanhnch.hr?chat">Chat With Me On Skype</a>',
       'Thanks'
     ]
   
